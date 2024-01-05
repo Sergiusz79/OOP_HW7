@@ -1,0 +1,20 @@
+янв. 05, 2024 5:54:40 PM org.example.Controller.Controller start
+INFO:  Start 
+янв. 05, 2024 5:54:51 PM org.example.Service.CreateComplexNumbers createCoupleComplexNumbers
+INFO:  User entered the real part of the first number 
+янв. 05, 2024 5:54:53 PM org.example.Service.CreateComplexNumbers createCoupleComplexNumbers
+INFO:  User entered the imaginary part of the first number 
+янв. 05, 2024 5:54:53 PM org.example.Service.CreateComplexNumbers createCoupleComplexNumbers
+INFO:  Save the first number 
+янв. 05, 2024 5:54:54 PM org.example.Service.CreateComplexNumbers createCoupleComplexNumbers
+INFO:  User entered the real part of the second number 
+янв. 05, 2024 5:54:55 PM org.example.Service.CreateComplexNumbers createCoupleComplexNumbers
+INFO:  User entered the imaginary part of the second number 
+янв. 05, 2024 5:54:55 PM org.example.Service.CreateComplexNumbers createCoupleComplexNumbers
+INFO:  Save the second number 
+янв. 05, 2024 5:54:58 PM org.example.Controller.Controller workWithComplexNumbers
+INFO:  User selected = 1 - сложить числа 
+янв. 05, 2024 5:54:58 PM org.example.Controller.Controller workWithComplexNumbers
+INFO:  Result received 
+янв. 05, 2024 5:54:59 PM org.example.Controller.Controller workWithComplexNumbers
+INFO:  User selected = 0 - выход 
